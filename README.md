@@ -1,1 +1,22 @@
-# Python
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Python Data Types</title>
+</head>
+<body
+    <h1>Python Data Types</h1>
+    <p>Python has three commonly used basic data types:</p>
+    <h2>1. Integer (int)</h2>
+    <p>
+        Integers represent whole numbers without decimal points.
+    </p>
+    <p><strong>Examples:</strong></p>
+    <ul>
+        <li>12</li>
+        <li>156</li>
+        <li>2860</li>
+    </ul>
+    <h2>2. Float (float)</h2>
+    <p>
+        Floats represent numbers with dec
