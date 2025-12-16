@@ -5,7 +5,7 @@
     <title>Python Data Types</title>
 </head>
 <body
-    <h1>Python Data Types</h1>
+    <h1>*Python Data Types*</h1>
     <p>Python has three commonly used basic data types:</p>
     <h2>1. Integer (int)</h2>
     <p>
