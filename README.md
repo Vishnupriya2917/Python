@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Python Data Types</title>
 </head>
 <body
     <h1>*Python Data Types*</h1>
